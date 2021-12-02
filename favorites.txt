@@ -10,3 +10,5 @@ Garam Masala
 
 Addded by co worker 
 gulab jamun
+
+Commit 2 in git bash
